@@ -32,4 +32,4 @@ To run locally, create a `.env.local` file and add:
 
 ```env
 OPENROUTER_API_KEY=sk-or-xxxxxxxxxxxxxxxxxxx
-OPENROUTER_MODEL=anthropic/claude-3-haiku-20240307
+OPENROUTER_MODEL=openai/gpt-3.5-turbo
